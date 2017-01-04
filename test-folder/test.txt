@@ -1,1 +1,3 @@
 Hello, here is some test text.
+
+Now the file has a second line.
