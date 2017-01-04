@@ -4,4 +4,8 @@ Now the file has a second line.
 
 Text in a branch.
 
+Something else.
+
+Editing in master.
+
 Back in original clone.
