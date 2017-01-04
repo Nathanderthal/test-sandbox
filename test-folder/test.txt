@@ -2,4 +2,4 @@ Hello, here is some test text.
 
 Now the file has a second line.
 
-Adding this in a branch.
+Something else.
